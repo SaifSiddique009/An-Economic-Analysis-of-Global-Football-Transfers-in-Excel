@@ -56,6 +56,14 @@ The analysis provided insights into:
 - Quantity and financial worth of player transfers in and out of European countries.
 - Identification of the top 5 European countries with the most significant incoming transfer values.
 
+<p align="center">
+  <img src="https://github.com/SaifSiddique009/An-Economic-Analysis-of-Global-Football-Transfers-in-Excel/blob/main/Analyzing%20European%20Transfer.png" width="400" />
+  <img src="https://github.com/SaifSiddique009/An-Economic-Analysis-of-Global-Football-Transfers-in-Excel/blob/main/European_top_5_countries.png" width="400" /> 
+</p>
+
+![AnalyzingEurpeanTransferbyCountry](https://github.com/SaifSiddique009/An-Economic-Analysis-of-Global-Football-Transfers-in-Excel/blob/main/Analyzing%20European%20Transfer%20by%20Country.png)
+
+
 ## Key Takeaways
 
 1. **Database Organization:** Efficiently split and cleaned data for effective database review.
